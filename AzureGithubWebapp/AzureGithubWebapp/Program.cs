@@ -1,4 +1,3 @@
-//Changing to check github integration with azure task
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
