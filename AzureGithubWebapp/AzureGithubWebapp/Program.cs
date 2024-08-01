@@ -1,5 +1,6 @@
 //Changed the file to trigger pipeline
 //Changed again to test integration with azure devops task
+//Changed to test release pipeline and hosting of website
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
